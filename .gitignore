@@ -1,0 +1,42 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+temp/
+tmp/
+
+# Generated video and image outputs
+*.mp4
+*.avi
+*.mov
+*.gif
+*.jpg
+*.jpeg
+*.png
